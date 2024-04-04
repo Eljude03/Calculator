@@ -20,4 +20,4 @@ This is a basic calculator web application created using HTML, CSS, and JavaScri
 
 ## Demo
 
-You can see the live demo [here](link-to-your-demo).
+You can see the live demo [here](https://eljude03.github.io/Calculator/).
